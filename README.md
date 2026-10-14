@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/claupalomars.png" width="120px" style="border-radius: 50%;" alt="Clau Palomares"/>
+</p>
+
 # 🧪 QA Automation — E-commerce com Python
 
 Projeto de portfólio voltado à automação de testes de qualidade de software (QA), utilizando Python, Pytest e Requests.
