@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/claupalomars.png" width="120px" style="border-radius: 50%;" alt="Clau Palomares"/>
+  <img src="banner-qa.jpg" width="100%" alt="QA Automation E-commerce Banner"/>
 </p>
 
 # 🧪 QA Automation — E-commerce com Python
