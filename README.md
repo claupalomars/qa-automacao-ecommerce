@@ -1,7 +1,6 @@
 <p align="center">
   <img src="banner-qa.jpg" width="100%" alt="QA Automation E-commerce Banner"/>
 </p>
-
 # 🧪 QA Automation — E-commerce com Python
 
 Projeto de portfólio voltado à automação de testes de qualidade de software (QA), utilizando Python, Pytest e Requests.
