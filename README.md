@@ -6,7 +6,7 @@
 
 # 🧪 QA Automation — E-commerce com Python
 
-Projeto de portfólio voltado à automação de testes de qualidade de software (QA), utilizando Python, Pytest e Requests.
+Projeto de portfólio voltado à automação de testes de qualidade de software (QA), utilizando Python, Playwright, Pytest e Requests.
 
 ## 🎯 Objetivo
 
