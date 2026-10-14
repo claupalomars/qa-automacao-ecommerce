@@ -1,4 +1,4 @@
-![Uploading TI.png…]()
+<img width="736" height="368" alt="TI" src="https://github.com/user-attachments/assets/50b93437-1416-446b-9318-af3b242c45a9" />
 
 
 
