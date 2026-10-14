@@ -1,7 +1,8 @@
 <img width="736" height="368" alt="TI" src="https://github.com/user-attachments/assets/50b93437-1416-446b-9318-af3b242c45a9" />
 
-
-
+![Python](https://img.shields.io/badge/Python-3.13-blue?style=flat&logo=python&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-Testing-green?style=flat&logo=pytest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-E2E-orange?style=flat&logo=playwright&logoColor=white)
 
 
 # 🧪 QA Automation — E-commerce com Python
