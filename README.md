@@ -15,12 +15,12 @@ Validar regras de negócio de um e-commerce e verificar os dados retornados por 
 
 ## Tecnologias utilizadas
 
--**Python** — linguagem de programação.
--**Pytest** — execução e organização dos testes.
--**Playwright** — automação de testes de interface no navegador.
--**Requests** — testes de API HTTP.
--**Git e GitHub** — versionamento do código.
--**GitHub Actions** — execução automática dos testes.
+- **Python** — linguagem de programação utilizada nos testes.
+- **Pytest** — execução e organização dos testes automatizados.
+- **Playwright** — automação de testes de interface web.
+- **Requests** — realização de requisições e testes de API REST.
+- **Git e GitHub** — versionamento e hospedagem do projeto.
+- **GitHub Actions** — execução automática dos testes (CI).
 
 ## Cenários de teste
 
