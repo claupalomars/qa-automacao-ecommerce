@@ -7,7 +7,7 @@
 
 # 🧪 QA Automation — E-commerce com Python
 
-Projeto criado para praticar automação de testes de software e um cenário de e-commerce, utilizando Python, Pytest e Requests.
+Projeto criado para praticar automação de testes de software e um cenário de e-commerce, utilizando Python, Pytest, Playwright e Requests.
 
 ## Objetivo
 
@@ -15,11 +15,12 @@ Validar regras de negócio de um e-commerce e verificar os dados retornados por 
 
 ## Tecnologias utilizadas
 
-- Python 3.13
-- Pytest
-- Requests
-- Git e GitHub
-- API pública DummyJSON
+**Python** — linguagem de programação.
+**Pytest** — execução e organização dos testes.
+**Playwright** — automação de testes de interface no navegador.
+**Requests** — testes de API HTTP.
+**Git e GitHub** — versionamento do código.
+**GitHub Actions** — execução automática dos testes.
 
 ## Cenários de teste
 
