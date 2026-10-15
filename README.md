@@ -3,11 +3,11 @@
 ![Python](https://img.shields.io/badge/Python-3.13-blue?style=flat&logo=python&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-Testing-green?style=flat&logo=pytest&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-HTTP-orange?style=flat&logo=requests&logoColor=white)
-
+![Playwright](https://img.shields.io/badge/Playwright-Testing-2EAD33?style=flat&logo=playwright&logoColor=white)
 
 # 🧪 QA Automation — E-commerce com Python
 
-Projeto criado para praticar automação de testes de software e um cenário de e-commerce, utilizando Python, Pytest, Playwright e Requests.
+Este é um projeto de estudo que desenvolvi para praticar automação de testes em um cenário de e-commerce. Trabalhei com testes de regras de negócio, validação de API e testes de interface usando Python.
 
 ## Objetivo
 
