@@ -7,7 +7,7 @@
 
 # 🧪 QA Automation — E-commerce com Python
 
-Este é um projeto que desenvolvi para praticar automação de testes em um cenário de e-commerce. Trabalhei com testes de regras de negócio, validação de API e testes de interface usando Python.
+Este é um projeto que desenvolvi para automação de testes em um cenário de e-commerce. Trabalhei com testes de regras de negócio, validação de API e testes de interface usando Python.
 
 ## Objetivo
 
