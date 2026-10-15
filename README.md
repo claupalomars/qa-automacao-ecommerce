@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?style=flat&logo=python&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-Testing-green?style=flat&logo=pytest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-E2E-orange?style=flat&logo=playwright&logoColor=white)
 
 
 # 🧪 QA Automation — E-commerce com Python
