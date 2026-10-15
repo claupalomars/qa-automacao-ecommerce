@@ -1,3 +1,4 @@
+
 name: Testes automatizados de QA
 
 on:
@@ -21,5 +22,14 @@ jobs:
       - name: Instalar dependencias
         run: python -m pip install -r requirements.txt
 
-      - name: Executar testes funcionais
+      - name: Instalar Playwright
+        run: python -m pip install pytest-playwright
+
+      - name: Instalar navegador Chromium
+        run: python -m playwright install --with-deps chromium
+
+      - name: Executar testes funcionais e de API
         run: python -m pytest -v
+
+      - name: Executar testes de interface
+        run: python -m pytest tests/test_ui.py -v
