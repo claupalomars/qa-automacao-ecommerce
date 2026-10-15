@@ -2,6 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?style=flat&logo=python&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-Testing-green?style=flat&logo=pytest&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-HTTP-orange?style=flat&logo=requests&logoColor=white)
 
 
 # 🧪 QA Automation — E-commerce com Python
